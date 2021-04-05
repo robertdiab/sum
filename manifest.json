@@ -1,0 +1,15 @@
+{
+  "name": "Professor Diab's Summaries",
+  "short_name": "Professor Diab's Summaries",
+  "start_url": "/sum/",
+  "scope": "/sum/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/sum/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
