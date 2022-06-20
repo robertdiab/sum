@@ -1,6 +1,6 @@
 {
-  "name": "Professor Diab's Summaries",
-  "short_name": "Professor Diab's Summaries",
+  "name": "Criminal Law Summaries",
+  "short_name": "Criminal Law Summaries",
   "start_url": "/sum/",
   "scope": "/sum/",
   "display": "standalone",
